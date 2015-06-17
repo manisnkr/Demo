@@ -5,6 +5,12 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{E84FE9DB-C819-4ED4-ABB0-BB1291D8034A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D06AA10E-300A-4D6B-89AB-4EF8E28C8C6D}"
+	ProjectSection(SolutionItems) = preProject
+		ConsoleApplication1\File1.txt = ConsoleApplication1\File1.txt
+		File2.txt = File2.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
